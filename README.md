@@ -4,3 +4,5 @@ If you have been ever curious to know the effect of [changing batchsizes](https:
 
 
 ![Batch size graph for test and train](https://github.com/rahulunair/batch_sizes/blob/master/batch_size.png)
+
+Here, the blue curve is the training loss.
