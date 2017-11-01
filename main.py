@@ -100,4 +100,4 @@ if __name__ == "__main__":
     plt.ylabel("Loss")
     plt.xlabel("Mini batch sizes")
     plt.savefig("batchsize.pdf")
-    plt.show()    
+    plt.show()
